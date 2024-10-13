@@ -1,4 +1,3 @@
-import boto3
 import pandas as pd
 
 from extract_data import get_sales_dataframe
